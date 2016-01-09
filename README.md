@@ -8,9 +8,11 @@ Praktycznie na każdej przerwie w trakcie zajęc z informatyki, zazwyczaj każdy
 --Dodatkowe--
 
 Kompilator do pobrania znajduję się pod tym linkiem:
+
 http://sourceforge.net/projects/turbopascal7
 
-Emulator systemu DOS jeśli ktoś potrzebuje można pobrać pod tym linkiem:
+Emulator systemu DOS (jeśli ktoś potrzebuję) można pobrać pod tym linkiem:
+
 http://www.dosbox.com
 
 Zapraszam do korzystania i rozwijania projektu :).
