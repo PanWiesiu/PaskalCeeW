@@ -11,8 +11,8 @@ repeat
 textcolor(random(32));
 textbackground(random(32));
 write(znaki(random(255)));
-sound(random(12000)+200);
-delay(random(20)+1);
+sound(random(12000) + 200);
+delay(random(20) + 1);
 until keypressed;
 nosound;
 end.
